@@ -1,7 +1,7 @@
 package Package;
 
 /**
- * @author Art
+ * @author author
  */
 public interface Implements {
 }
